@@ -1,0 +1,6 @@
+name = input("Как тебя зовут?")
+age = input("Сколько тебе лет?")
+
+next_year_age = int(age) + 1
+
+print("Привет," ,name, "через год тебе будет", next_year_age)
